@@ -1,0 +1,15 @@
+{
+  "keyId": "2026-W24",
+  "algorithm": "ECDSA P-256",
+  "publicKey": {
+    "kty": "EC",
+    "key_ops": [
+      "verify"
+    ],
+    "ext": true,
+    "crv": "P-256",
+    "x": "VTkEkw_nk5erEoUygYOjBAyAuHjYMrl0nL7J0swXSyA",
+    "y": "nn3jpsrJuBePsWxv_OdlX0hxsWmhhdagSs4NsbgYczY"
+  },
+  "createdAt": "2026-06-07T00:05:09.305Z"
+}
