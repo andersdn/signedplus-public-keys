@@ -4,12 +4,12 @@
   "publicKey": {
     "kty": "EC",
     "key_ops": [
-      "verify"
+      "sign"
     ],
     "ext": true,
     "crv": "P-256",
     "x": "7Ju5g0P6jtmmyG5bZryptbjmoFFEuE__aOcpnNSmce8",
     "y": "jtf3avAOS28-abB82TTrnSPIMndEAaRZ6IBCFgWnzD4"
   },
-  "createdAt": "2026-06-21T00:06:02.335Z"
+  "createdAt": "2026-06-28T00:05:23.536Z"
 }
